@@ -1,12 +1,11 @@
-h1 {
-    font-size: 5rem;
+.tittle {
     background-color: aliceblue;
     color: black;
-    position: absolute;
-    top: 2%;
-    width: 98%;
-    text-align: center;
     
 }   
-
+#foto {
+    width: 100%;
+    height: 400px;
+    background-image: url("https://github.com/ManuelCebreiro/exercise-collaborative-html-website/blob/develop/website/assets/img/bg.jpg?raw=true");
+}
 
